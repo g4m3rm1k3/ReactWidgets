@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import Dropdown from "./Dropdown";
 import Convert from "./Convert";
-import axios from "axios";
 
 const options = [
   {
